@@ -36,12 +36,13 @@ Aplikasi RoomAja juga mendukung pengaturan tema **Light Mode dan Dark Mode**, se
 5. **Edit Data Booking**
    Data booking yang sudah dibuat dapat diubah kembali melalui halaman form.
 
-
+! [image alt](https://github.com/Ihsann333/minpro_2_PAB/blob/2ac2e7d421cc3eb5260ec3ed1d9a820b46db8b5a/bd76d2e1-9776-4a8c-a4e4-a026b08b3909.jpg)
 6. **Pemilihan Tanggal Menginap**
    Pengguna dapat memilih tanggal check-in dan check-out menggunakan kalender.
 
 7. **Validasi Input Form**
    Aplikasi melakukan validasi input seperti format email dan panjang password.
+
 
 8. **Light Mode dan Dark Mode**
    Pengguna dapat mengganti tampilan aplikasi antara tema terang dan tema gelap.
