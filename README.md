@@ -28,9 +28,10 @@ Aplikasi RoomAja juga mendukung pengaturan tema **Light Mode dan Dark Mode**, se
 3. **Menampilkan Daftar Booking**
    Aplikasi menampilkan daftar booking kamar hotel dalam bentuk list yang dapat di-scroll.
 
-
+! [image alt](https://github.com/Ihsann333/minpro_2_PAB/blob/3711b4cd4a104b6a5effd823cc90bcdbc3c52df0/7a91fed9-9e48-43ca-8487-ab262b3995c3.jpg)
 4. **Menambahkan Booking Kamar**
    Pengguna dapat menambahkan data booking melalui halaman form dengan mengisi informasi pemesanan hotel.
+
 
 5. **Edit Data Booking**
    Data booking yang sudah dibuat dapat diubah kembali melalui halaman form.
