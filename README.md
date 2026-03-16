@@ -43,7 +43,9 @@ Aplikasi RoomAja juga mendukung pengaturan tema **Light Mode dan Dark Mode**, se
 7. **Validasi Input Form**
    Aplikasi melakukan validasi input seperti format email dan panjang password.
 
+! [image alt](https://github.com/Ihsann333/minpro_2_PAB/blob/3b58463c5d85ad0e5b97400709f3d781d397d096/64e085fe-c243-449c-9ed9-db9865e470ed.jpg)
 
+! [image alt](https://github.com/Ihsann333/minpro_2_PAB/blob/3b58463c5d85ad0e5b97400709f3d781d397d096/81a4e8a6-60dd-4aa2-a003-98557125c9ef.jpg)
 8. **Light Mode dan Dark Mode**
    Pengguna dapat mengganti tampilan aplikasi antara tema terang dan tema gelap.
 
